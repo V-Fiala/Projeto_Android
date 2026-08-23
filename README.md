@@ -1,22 +1,28 @@
 # Projeto_Android
 
 ## Descrição do projeto
-Um aplicativo para agilizar o processo de reserva de voos, permitindo que os usuários pesquisem, comparem e comprem passagens aéreas, incluindo cargo.
+O projeto consiste em um aplicativo voltado para agilizar o processo de reserva de voos. A plataforma permite que os usuários pesquisem, comparem e comprem passagens aéreas, incluindo opções para transporte de carga.
 
 ## Problema que o aplicativo pretende resolver
-A reserva tradicional de voos costuma ser fragmentada por linha aerea, exigindo que os usuários naveguem por sites especificos e pouco práticos e lidem com taxas ocultas apenas para encontrar uma tarifa simples.
+O aplicativo busca solucionar a ineficiência das reservas de voos tradicionais, que costumam ser fragmentadas por companhia aérea. O modelo atual exige que os usuários naveguem por sites específicos e pouco práticos, além de frequentemente esbarrarem em taxas ocultas durante a busca por uma tarifa simples.
 
 ## Plataforma escolhida
-- Android
+O aplicativo será desenvolvido para a plataforma Android.
 
 ## Interface do usuário (UI) e interface do administrador, quando aplicável
-Os usuário utilizarão um painel simples para gerenciar viagens e carga. Os administradores usarão um portal backend para monitorar o inventário de passagens e gerenciar atendimento ao cliente.
+Usuários: Terão acesso a um painel simples projetado para facilitar o gerenciamento das viagens e das cargas.
+Administradores: Utilizarão um portal de backend dedicado para monitorar o inventário de passagens e realizar a gestão do atendimento ao cliente.
 
 ## Principais funcionalidades do aplicativo
-Alertas de monitoramento de preços em tempo real, sistema de compra com um único clique, armazenamento de cartão de embarque digital e um gerador automatizado de itinerários que combina grande parte das companhias aéreas.
+As principais ferramentas e recursos do aplicativo incluem:
+
+- Alertas de monitoramento de preços em tempo real.
+- Sistema de compra simplificado com apenas um clique.
+- Armazenamento interno de cartão de embarque digital.
+- Gerador automatizado de itinerários que combina voos de grande parte das companhias aéreas.
 
 ## Design
-- Minimalista
-- Paleta de cores azul
-- Tipografia de alto contraste
-- Layout de navegação em abas
+- Abordagem com design minimalista.
+- Utilização de uma paleta de cores azul.
+- Aplicação de tipografia de alto contraste para melhor legibilidade.
+- Estruturação através de um layout de navegação em abas.
