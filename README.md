@@ -26,3 +26,5 @@ As principais ferramentas e recursos do aplicativo incluem:
 - Utilização de uma paleta de cores azul.
 - Aplicação de tipografia de alto contraste para melhor legibilidade.
 - Estruturação através de um layout de navegação em abas.
+
+<img width="408" height="816" alt="image" src="https://github.com/user-attachments/assets/e30c7821-0cb3-4946-a419-4c838ad08cfb" />
